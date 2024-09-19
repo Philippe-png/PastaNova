@@ -1,0 +1,93 @@
+*{
+
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: Arial;
+
+}
+
+#lado{
+
+display: flex;
+justify-content: space-between;
+color: black;
+
+
+
+}
+
+#separa{
+display: flex;
+gap: 30px;
+
+}
+
+#botao{
+
+    display: flex;
+border-radius: 25px;
+background-color:rgb(248, 95, 47);
+padding: 5px;
+border-style: none;
+color: white;
+}
+
+.tira{
+
+text-decoration: none;
+
+}
+
+img{
+
+width: 65px;
+
+}
+
+#grande{
+
+font-size: 100px;
+width: 70vw;
+text-align: center;
+margin: auto;
+
+}
+
+
+#tudolado{
+
+display: flex;
+justify-content: center;
+margin: 25px;
+gap: 15px;
+
+
+
+
+}
+
+#cor{
+
+background-color: #D6DADF;
+padding: 50px;
+
+
+
+}
+
+#cor2{
+
+background-color: #AFAEED;
+padding: 50px;
+
+
+}
+
+#cor3{
+
+
+background-color: #C1B2B2;
+padding: 50px;
+}
+
